@@ -1,4 +1,4 @@
 # Título
 ## Subtítulo
 Texto
-![](https://90dez.com/image.jpg)
+![](https://90dez.com/image.png)
